@@ -1,0 +1,4 @@
+Bézs: #E2C79B
+Kék: #5ECACA
+Barna: #BE8435
+Sötét barna: #8E6246
