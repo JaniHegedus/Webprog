@@ -1,0 +1,25 @@
+body{
+    background-color: #E3C79B;
+    margin: 0;
+    padding: 0;
+}
+header{
+    background-image: url("../Images/1_ora/header.jpg");
+    background-size: 100%;
+    padding: 25px;
+    color: rgba(182,70,51,0.75);
+}
+img{
+    width: 100%;
+}
+p{
+    padding-right: 25px;
+    padding-left: 25px;
+}
+h2{
+    background-color: #5bcaca;
+    color: white;
+    margin-top: 0;
+    margin-bottom: 0;
+    padding: 10px 25px;
+}
